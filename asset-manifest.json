@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.72d56836.chunk.css",
+    "main.js": "/static/js/main.6c78b8bd.chunk.js",
+    "main.js.map": "/static/js/main.6c78b8bd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3c6edb7c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3c6edb7c.js.map",
+    "static/css/2.f5a13fe1.chunk.css": "/static/css/2.f5a13fe1.chunk.css",
+    "static/js/2.022fe1b7.chunk.js": "/static/js/2.022fe1b7.chunk.js",
+    "static/js/2.022fe1b7.chunk.js.map": "/static/js/2.022fe1b7.chunk.js.map",
+    "static/js/3.272cc2c3.chunk.js": "/static/js/3.272cc2c3.chunk.js",
+    "static/js/3.272cc2c3.chunk.js.map": "/static/js/3.272cc2c3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f5a13fe1.chunk.css.map": "/static/css/2.f5a13fe1.chunk.css.map",
+    "static/css/main.72d56836.chunk.css.map": "/static/css/main.72d56836.chunk.css.map",
+    "static/js/2.022fe1b7.chunk.js.LICENSE.txt": "/static/js/2.022fe1b7.chunk.js.LICENSE.txt",
+    "static/media/Food_Supply_Quantity_kg_Data.e223a0c1.csv": "/static/media/Food_Supply_Quantity_kg_Data.e223a0c1.csv",
+    "static/media/alcohol.b7608ed6.svg": "/static/media/alcohol.b7608ed6.svg",
+    "static/media/animal.1a088f8a.svg": "/static/media/animal.1a088f8a.svg",
+    "static/media/cereals.21bc2969.svg": "/static/media/cereals.21bc2969.svg",
+    "static/media/countries.54baeafb.csv": "/static/media/countries.54baeafb.csv",
+    "static/media/deathrate.97dbe550.svg": "/static/media/deathrate.97dbe550.svg",
+    "static/media/eggs.306107e4.svg": "/static/media/eggs.306107e4.svg",
+    "static/media/fishseafood.63a25fef.svg": "/static/media/fishseafood.63a25fef.svg",
+    "static/media/fruits.56f22762.svg": "/static/media/fruits.56f22762.svg",
+    "static/media/milk.bb966efe.svg": "/static/media/milk.bb966efe.svg",
+    "static/media/nuts.f6c92203.svg": "/static/media/nuts.f6c92203.svg",
+    "static/media/obesity.473b47da.svg": "/static/media/obesity.473b47da.svg",
+    "static/media/oil.4e1f7cf4.svg": "/static/media/oil.4e1f7cf4.svg",
+    "static/media/starchyroots.e4fdbb72.svg": "/static/media/starchyroots.e4fdbb72.svg",
+    "static/media/sugar.c800f831.svg": "/static/media/sugar.c800f831.svg",
+    "static/media/undernourished.c384e837.svg": "/static/media/undernourished.c384e837.svg",
+    "static/media/vegetables.a1d94812.svg": "/static/media/vegetables.a1d94812.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c6edb7c.js",
+    "static/css/2.f5a13fe1.chunk.css",
+    "static/js/2.022fe1b7.chunk.js",
+    "static/css/main.72d56836.chunk.css",
+    "static/js/main.6c78b8bd.chunk.js"
+  ]
+}
